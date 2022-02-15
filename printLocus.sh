@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #Thie script can be run on all linux machines by typing "bash path/to/printLocus"
-
+# mmissed message that only makes sense with context because I forgot to explain it better
 #Aim: given a big VCF file, you can skip to a certain variant and print the following N columns
 
 #type the positions of the variants between speechmarks (!no space after the position, each one starts with a new line)
