@@ -1,2 +1,2 @@
 # scripts-for-VCF-files
-UKB scripts, TBC
+These shell scripts were designed to efficiently navigate through multi-sample VCF files, enabling users to manipulate and extract relevant data with ease. The scripts serve as an introductory toolkit, specifically tailored for beginners, providing a foundational framework for those new to bioinformatics and VCF file handling. By automating key tasks, such as variant extraction and sample selection, the scripts facilitate the processing of large genomic datasets.
